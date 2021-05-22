@@ -1,0 +1,36 @@
+They are sequence diagrams in Visual Paradigm easy to java code in Netbeans. 
+The project is almost done, just add that code and make it work. 
+I attach a diagram, it would be 2 diagrams.
+
+the real max time is monday 9am
+spanish hour
+
+so you think you can do it? :))
+I can send you all the info
+let me know. Is "easy" but...as is a stupid university project (a part of it just).
+but I need it for monday at 9am spanish hour
+by the way is in spanish..could you?
+
+in lib.zip there is jcalendar libs for netbeans used
+and in the other -zip there is one document trying to explain what I need
+I have another zip with all diagrams images in case you want to see sth. and the Visual Paradigm file
+
+but uhmm is very intuitive..useing "activa" like active, experta (person girl expert).
+and "Actualizar" is update
+
+basically I need the part of the code of "DarDeBaja" related to "Baja" button from "DarDeBaja" diagram. 
+That diagram I think is correct or almost correct. 
+if implemeting it you see you need to modify sth do it and later I modify the diagram
+
+and the Actualizar Experta diagram code related to the button "Actualizar". 
+I have images from other group what sent me those diagrams and are correct 100% 
+but using another names a bit different but using our struct names, etc should work
+so in the document is basically all needed. there as extra the images in better quality (still not the best I know) 
+and the netbeans projhect is called "ciclo2-05"
+in the 1st zip
+
+sth very important the diagrams for "actualizar" (update) and to activate or inactivate an "experta" are from 
+other group so the names can be a bit different and 
+I should send you those diagrams adapted to our names of our class diagrams..
+I will do tonight so is all more clear to pass it to the code in netbeans.
+so start for DarDeBaja slightly smiling face emoji and remember to write whatever change you see in the code so I will modify the diagram later
